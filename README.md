@@ -1,13 +1,10 @@
-## Hi 👋 I'm Satya Pathak
-### An Aspiring Software Developer
+<h1 align="center">Hi 👋, I'm Satya Pathak</h1>
+<h3 align="center"> An Aspiring Software Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-
-- 🌱 I’m currently learning **Backend & Full-Stack Development**
-
-- 💻 Interested in Backend & Full-Stack Development  
-
+- 💬 Ask me about **Backend & Full-Stack Development**
+- ⚡ "Code is like humor. When you have to explain it, it’s bad."_ 😄
 - 📫 How to reach me **sp0607003@gmail.com**
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f9/ad/56/f9ad56574a5173661f8c6ae9fc1dbf75.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,13 +25,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sp0706003&show_icons=true&locale=en&layout=compact" alt="sp0706003" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sp0706003&show_icons=true&locale=en&layout=compact&theme=dark" alt="sp0706003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sp0706003&show_icons=true&locale=en" alt="sp0706003" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sp0706003&show_icons=true&locale=en&theme=dark" alt="sp0706003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sp0706003&" alt="sp0706003" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sp0706003&theme=dark" alt="sp0706003" /></p>
 
----
-
-### 💡 Fun Fact
-_"Code is like humor. When you have to explain it, it’s bad."_ 😄
