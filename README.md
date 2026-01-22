@@ -35,14 +35,5 @@
 
 ---
 
-
-
----
-
-### 📈 Stats
-![Satya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sp0706003&show_icons=true&theme=radical)
-
----
-
 ### 💡 Fun Fact
 _"Code is like humor. When you have to explain it, it’s bad."_ 😄
