@@ -1,3 +1,6 @@
+## Hi 👋 I'm Satya Pathak
+### An Aspiring Software Developer
+
 
 - 🌱 I’m currently learning **Backend & Full-Stack Development**
 
@@ -32,32 +35,7 @@
 
 ---
 
-## Hi 👋 I'm Satya Pathak
-### An Aspiring Software Developer
 
-🌱 Constantly learning and exploring new technologies  
-💻 Interested in Backend & Full-Stack Development  
-🚀 Building real-world projects and improving problem-solving skills  
-
----
-
-### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/satya-pathak-927796236/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/u/IT_2C_21B0131200/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/IT_2C_21B0131200)
-
----
-
-### 🛠️ Languages & Frameworks
-![My Skills](https://skillicons.dev/icons?i=java,spring,maven,js,html,css,mysql,git)
-
----
-
-### ⚙️ Tools & Technologies
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
