@@ -14,13 +14,7 @@
 ---
 
 ### 🛠️ Languages & Frameworks
-![Java](https://skillicons.dev/icons?i=java)
-![Spring](https://skillicons.dev/icons?i=spring)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+![My Skills](https://skillicons.dev/icons?i=java,spring,maven,js,html,css,mysql,git)
 
 ---
 
@@ -29,7 +23,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 
